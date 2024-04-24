@@ -10,4 +10,6 @@ Created **[zena](https://github.com/zena)**, a content management system based o
 
 Core member of **[Cerebral](https://github.com/cerebral/cerebral/commits/next/?author=gaspard)** and **[Overmind](https://github.com/cerebral/overmind/commits/next/?author=gaspard)**, state management systems for React, Vue, etc. Used by codesandbox.io.
 
+### Github Timeline
+
 Due to a mess with github handles, I had to re-join the organisations for these projects, hence the confusing timeline.
