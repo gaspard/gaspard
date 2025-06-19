@@ -2,6 +2,11 @@ Live-arts, math, Zero-Knowledge, music, ML, AI -> [@feature_space](https://twitt
 
 ## Open Source contributions
 
+
+<a href="https://tiliajs.com">
+  <img width="817" alt="image" src="https://github.com/user-attachments/assets/c01c69e2-7472-461e-818f-8c0831ca0fae" />
+</a>
+
 Created **[tilia](https://tiliajs.com)**, a Minimal state management and FRP library for ReScript and TypeScript with support for React.
 
 Created **[vitest-bdd](https://github.com/midasum/vitest-bdd)**, vitest test-runner plugin for Gherkin.
