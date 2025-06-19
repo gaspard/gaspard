@@ -2,14 +2,11 @@ Live-arts, math, Zero-Knowledge, music, ML, AI -> [@feature_space](https://twitt
 
 ## Open Source contributions
 
-Created **[pawi](https://github.com/pawijs/pawi)**, a Visual Studio Code extension for graphical composition of functional code.
+Created **[tilia](https://tiliajs.com)**, a Minimal state management and FRP library for ReScript and TypeScript with support for React.
 
-Created **[lubyk](https://github.com/lubyk)**, a real-time distributed data processing for live arts with funding from Pro Helvetia.
+Created **[vitest-bdd](https://github.com/midasum/vitest-bdd)**, vitest test-runner plugin for Gherkin.
 
-Created **[zena](https://github.com/zena)**, a content management system based on Ruby on Rails and used to create custom ERP for clients.
+Created **[zena](https://github.com/zena)** (Ruby on Rails CMS), and **[lubyk](https://github.com/lubyk)** (Lua based signal processing).
 
 Core member of **[Cerebral](https://github.com/cerebral/cerebral/commits/next/?author=gaspard)** and **[Overmind](https://github.com/cerebral/overmind/commits/next/?author=gaspard)**, state management systems for React, Vue, etc. Used by codesandbox.io.
 
-### Github Timeline
-
-Due to a mess with github handles, I had to re-join the organisations for these projects, hence the confusing timeline.
